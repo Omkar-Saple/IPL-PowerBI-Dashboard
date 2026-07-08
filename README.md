@@ -143,19 +143,20 @@ This dashboard uses advanced DAX measures including:
 ## 📷 Dashboard Preview
 
 ### Home
-![Home](Images/Home.png)
+![Dashboard](images/dashboard.png)
 
 ### Team Analysis
-![Team Analysis](Images/Team_Analysis.png)
+![campions-runnerup](images/campions_runnerup.png)
+![point_table](images/point_table.png)
 
 ### Player Analysis
-![Player Analysis](Images/Player_Analysis.png)
+![players](Images/Players.png)
 
 ### Orange Cap
-![Orange Cap](Images/Orange_Cap.png)
+![orange_cap](images/orange_cap.png)
 
 ### Purple Cap
-![Purple Cap](Images/Purple_Cap.png)
+![Purple cap](Images/Purple_cap.png)
 
 ---
 
