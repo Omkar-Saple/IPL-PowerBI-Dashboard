@@ -143,20 +143,24 @@ This dashboard uses advanced DAX measures including:
 ## 📷 Dashboard Preview
 
 ### Home
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
-### Team Analysis
-![campions-runnerup](images/campions_runnerup.png)
+### Point table 
 ![point_table](images/point_table.png)
 
+
+### champions,Runnerup according to Season
+![campions-runnerup](images/campions_runnerup.png)
+
+
 ### Player Analysis
-![players](Images/Players.png)
+![players](images/players.png)
 
 ### Orange Cap
 ![orange_cap](images/orange_cap.png)
 
 ### Purple Cap
-![Purple cap](Images/Purple_cap.png)
+![Purple cap](images/Purple_cap.png)
 
 ---
 
