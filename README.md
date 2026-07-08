@@ -1,5 +1,5 @@
 # 🏏 IPL Analytics Dashboard | Power BI
-
+![Dashboard](images/Dashboard.png)
 An interactive **Power BI Dashboard** that provides comprehensive insights into the Indian Premier League (IPL). The dashboard enables users to analyze team performance, player statistics, season-wise trends, venue analysis, and award winners through dynamic visualizations and advanced DAX measures.
 
 ---
